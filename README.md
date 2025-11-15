@@ -1,4 +1,4 @@
-# TASK TRACKER CLI :
+# TASK TRACKER CLI : https://github.com/SKukreti0107/TASK_TRACKER_CLI
 A basic to do task list in cli ,storing tasks data in JSON using the argparse library.
 
 # USAGE:
